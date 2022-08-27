@@ -1,3 +1,10 @@
+# Andrew Tan's First CS193 Homework
+
+## List of my favorite things about CS193 
+- The instructors seem cool 
+- Pragmatic content and knowledge
+- I get to use my new 512 GB midnight blue M2 Macbook Air (just wanted to flex a bit)
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
