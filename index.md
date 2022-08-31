@@ -3,7 +3,7 @@
 ## List of my favorite things about CS193 
 - The instructors seem cool 
 - Pragmatic content and knowledge
-- I get to use my new 512 GB midnight blue M2 Macbook Air (just wanted to flex a bit)
+- I get to do cool stuff on my new 512 GB midnight blue M2 Macbook Air (just wanted to flex a bit)
 
 ### Markdown
 
